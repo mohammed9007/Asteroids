@@ -18,6 +18,7 @@ def main():
 
         
         player1.update(dt)
+     
 
         screen.fill("black")
         player1.draw(screen)
